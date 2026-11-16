@@ -1,8 +1,10 @@
 # Threshold Selection for Imbalanced Binary Classification
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24288576.svg)](https://doi.org/10.5281/zenodo.24288576)
+
 Code, configuration and result records for the review article
 
-> A. Banerjee, A. Roy and U. Roy, *Threshold Selection for Imbalanced Binary Classification: A Methodological Review with Synthetic and Real-Data Illustrations*, manuscript under review (2026).
+> D. Roy, A. Roy and U. Roy, *Threshold Selection for Imbalanced Binary Classification: A Methodological Review with Synthetic and Real-Data Illustrations*, manuscript under review (2026).
 
 The article organizes decision-threshold selection methods by decision objective, selection mechanism, score requirement, granularity, adaptation setting and guarantee type, and illustrates the framework with controlled simulations and real-data experiments. This repository contains the material needed to reproduce the empirical part of the article.
 
@@ -79,7 +81,7 @@ The real-data experiments use publicly available datasets. Their sources, positi
 
 ## Citation
 
-If you use this code, please cite the article (see `CITATION.cff`). The archived release of this repository is available on Zenodo: DOI to be added.
+If you use this code, please cite the article (see `CITATION.cff`). The archived release of this repository is available on Zenodo: [https://doi.org/10.5281/zenodo.24288576](https://doi.org/10.5281/zenodo.24288576).
 
 ## License
 
@@ -87,4 +89,4 @@ Code is released under the MIT License (see `LICENSE`).
 
 ## Contact
 
-Ayana Banerjee, Department of Computer and System Sciences, Visva-Bharati, Santiniketan, India.
+Debashis Roy, Department of Computer and System Sciences, Visva-Bharati, Santiniketan, West Bengal 731235, India.

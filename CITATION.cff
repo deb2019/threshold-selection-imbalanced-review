@@ -2,23 +2,24 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the article below."
 title: "Threshold Selection for Imbalanced Binary Classification: code and result records"
 authors:
-  - family-names: Banerjee
-    given-names: Ayana
+  - family-names: Roy
+    given-names: Debashis
     affiliation: "Department of Computer and System Sciences, Visva-Bharati"
   - family-names: Roy
     given-names: Anandarup
-    affiliation: "Department of Computer and System Sciences, Visva-Bharati"
+    affiliation: "Sarojini Naidu College for Women, Dum Dum, Kolkata"
   - family-names: Roy
     given-names: Utpal
     affiliation: "Department of Computer and System Sciences, Visva-Bharati"
+doi: "10.5281/zenodo.24288576"
 repository-code: "https://github.com/deb2019/threshold-selection-imbalanced-review"
 license: MIT
 preferred-citation:
   type: article
   title: "Threshold Selection for Imbalanced Binary Classification: A Methodological Review with Synthetic and Real-Data Illustrations"
   authors:
-    - family-names: Banerjee
-      given-names: Ayana
+    - family-names: Roy
+      given-names: Debashis
     - family-names: Roy
       given-names: Anandarup
     - family-names: Roy
