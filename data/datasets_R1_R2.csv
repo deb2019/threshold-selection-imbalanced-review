@@ -1,0 +1,13 @@
+Task,Dataset,Source URL,Positive event,Split policy
+Blood,Blood Transfusion Service Center,https://archive.ics.uci.edu/dataset/176/blood+transfusion+service+center,Donation = 1,Stratified 60/20/20
+Cervical,Cervical Cancer (Risk Factors),https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors,Biopsy = 1,Stratified 60/20/20
+Infrared,Infrared Thermography Temperature,https://archive.ics.uci.edu/dataset/925/infrared+thermography+temperature+dataset,aveOralF >= 38,Stratified 60/20/20
+Credit,Credit Card Fraud Detection (ULB),https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud,Class = 1,Chronological 60/20/20
+Ozone,Ozone Level Detection,https://archive.ics.uci.edu/dataset/172/ozone+level+detection,Ozone day = 1,Chronological 60/20/20
+Shill,Shill Bidding Dataset,https://archive.ics.uci.edu/dataset/562/shill+bidding+dataset,Class = 1,Auction-group split
+APS,APS Failure at Scania Trucks,https://archive.ics.uci.edu/dataset/421/aps+failure+at+scania+trucks,pos = 1,Original test; 75/25 fit/selection
+CARAVAN,Insurance Company Benchmark (COIL 2000),https://archive.ics.uci.edu/dataset/125/insurance+company+benchmark+coil+2000,CARAVAN = 1,Original test; 75/25 fit/selection
+Shoppers,Online Shoppers Purchasing Intention,https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset,Revenue = True,Stratified 60/20/20
+Intrusion,CIC-IDS2017,https://www.unb.ca/cic/datasets/ids-2017.html,Non-BENIGN flow,Stratified 60/20/20
+Airline,[source to confirm],,recommended = yes,Stratified 60/20/20
+BETH,BETH cybersecurity dataset,https://www.kaggle.com/datasets/katehighnam/beth-dataset,sus = 1,Original train/val/test

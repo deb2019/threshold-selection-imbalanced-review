@@ -1,0 +1,60 @@
+ID,Dataset,Category,Source URL,Positive class (target = 1),File used,N,Positives,Negatives,Features,IR (maj/min),Positive %,Note
+d001,Android Malware Detection,Cybersecurity,https://www.kaggle.com/datasets/subhajournal/android-malware-detection,Label,AndroidAdware_Binary_Preprocessed_Final.csv,28620,4912,23708,80,4.83,17.16,
+d002,Classification of Malwares (CLaMP),Cybersecurity,https://www.kaggle.com/datasets/saurabhshahane/classification-of-malwares,class,ClaMP_Imbalanced.csv,3032,544,2488,69,4.57,17.94,
+d003,Dataset for Link Phishing Detection,Cybersecurity,https://www.kaggle.com/datasets/winson13/dataset-for-link-phishing-detection/data,status,pre_link_phishing_imb.csv,10861,1145,9716,86,8.49,10.54,
+d004,Healthcare Ransomware Dataset,Cybersecurity,https://www.kaggle.com/datasets/rivalytics/healthcare-ransomware-dataset/data,data_stolen,pre_healthcare_ransomware.csv,5000,1148,3852,15,3.36,22.96,
+d005,Malware Detection Dataset,Cybersecurity,https://www.kaggle.com/datasets/ankit1743/android-malware-detection-dataset,Result,AndroidMalware_Imbalanced.csv,5392,525,4867,86,9.27,9.74,
+d006,CIC-IDS2017 (web-attack subset),Cybersecurity,https://www.unb.ca/cic/datasets/ids-2017.html,Label,Cybersecurity_WebAttack_Preprocessed_30k.csv,29957,418,29539,78,70.67,1.4,
+d007,Tabular dataset ready for malicious url detection,Cybersecurity,https://www.kaggle.com/datasets/pilarpieiro/tabular-dataset-ready-for-malicious-url-detection/data,label,Phishing_Imb_Pre.csv,4206,895,3311,56,3.7,21.28,
+d008,PhiUSIIL Phishing URL,Cybersecurity,https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset,label,phishing_imbalanced_40k.csv,40000,4000,36000,50,9,10,
+d009,RT-IoT2022,Cybersecurity,https://archive.ics.uci.edu/dataset/942/rt-iot2022,target,rt_iot_binary_preprocessed_5037.csv,5037,37,5000,79,135.14,0.73,
+d010,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d011,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d012,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d013,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d014,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d015,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d016,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d017,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d018,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d019,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d020,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d021,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d022,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d023,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d024,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d025,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d026,[to confirm],Finance and marketing,,,,,,,,,,choose from sheet Finance_candidates
+d027,Airbnb for Boston with fraud detection,Fraud detection,https://www.kaggle.com/datasets/hawkingcr/airbnb-for-boston-with-fraud-detection,fraud,preprocessed_airbnb_fraud.csv,3585,767,2818,20,3.67,21.39,
+d028,Bank Transaction Dataset for Fraud Detection,Fraud detection,https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection,IsFraud,Bank_Transactions_Preprocessed.csv,2512,126,2386,53,18.94,5.02,
+d029,Credit Card Fraud,Fraud detection,https://www.kaggle.com/datasets/kartik2112/fraud-detection,is_fraud,preprocessed_credit_fraud.csv,10359,48,10311,1187,214.81,0.46,
+d030,Credit Card Fraud Detection,Fraud detection,https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data,Class,CreditCard_Preprocessed.csv,284807,492,284315,30,577.88,0.17,chronological split
+d031,Fraudulent Claim on Cars Physical Damage,Fraud detection,https://www.kaggle.com/datasets/surekharamireddy/fraudulent-claim-on-cars-physical-damage,fraud,preprocessed_training_data.csv,17998,2816,15182,22,5.39,15.65,
+d032,Healthcare Providers Data For Anomaly Detection,Fraud detection,https://www.kaggle.com/datasets/tamilsel/healthcare-providers-data,PotentialFraud,Final_Healthcare.csv,100000,118,99882,20,846.46,0.12,
+d033,Insurance Fraud Detection,Fraud detection,https://www.kaggle.com/datasets/arpan129/insurance-fraud-detection,police_report_available_YES,Preprocessed_Fraud_Insurance.csv,1000,314,686,1093,2.18,31.4,"target is police-report availability, not fraud"
+d034,Learning from Imbalanced Insurance Data,Fraud detection,https://www.kaggle.com/datasets/arashnic/imbalanced-data-practice,Response,preprocessed_insu_response.csv,20632,3323,17309,10,5.21,16.11,
+d035,Loan Application & Transaction Fraud Detection,Fraud detection,https://www.kaggle.com/datasets/prajwaldongre/loan-application-and-transaction-fraud-detection,Fraudulent,Pre_Loan_Fraud_Dataset.csv,49428,479,48949,31,102.19,0.97,
+d036,Alzheimers,Medical,https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset,Diagnosis,pre_alzheimers_disease.csv,2149,760,1389,34,1.83,35.37,
+d037,Breast Cancer Prediction,Medical,https://www.kaggle.com/datasets/marshalpatel3558/breast-cancer-prediction,Status,Breast_Cancer_Preprocessed.csv,4024,616,3408,15,5.53,15.31,
+d038,CDC Diabetes Health Indicators,Medical,https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset,Diabetes_binary,preprocessed_diabetes_data.csv,229474,35097,194377,21,5.54,15.29,
+d039,Healthy Lifestyle,Medical,https://www.kaggle.com/datasets/aditibabu/healthy-lifestyle,Label,Healthy_Lifestyle_Imbalanced.csv,11544,1924,9620,45,5,16.67,
+d040,Hospital Length of Stay Dataset Microsoft,Medical,https://www.kaggle.com/datasets/aayushchou/hospital-length-of-stay-dataset-microsoft,long_stay,LengthOfStay_Preprocessed.csv,100000,8565,91435,24,10.68,8.56,
+d041,ICU Patient Outcome Prediction,Medical,https://www.kaggle.com/datasets/fdemoribajolin/death-classification-icu,target,ICU_Death_Prediction_Preprocessed.csv,3600,503,3097,119,6.16,13.97,
+d042,NHS Admissions Data 2011 2020,Medical,https://www.kaggle.com/datasets/tomfarnell/nhs-admissions-data-2011-2020,Target_High_Admission,imbalanced_nhs_dataset.csv,8043,1341,6702,10,5,16.67,
+d043,Ovarian Cancer,Medical,https://www.kaggle.com/datasets/datasetengineer/ovarian-cancer-risk-and-progression-data,RiskLabel_Binary,pre_ovarian_cancer_binary.csv,16000,3201,12799,33,4,20.01,
+d044,Ovarian Cancer Risk and Progression Data,Medical,https://www.kaggle.com/datasets/datasetengineer/ovarian-cancer-risk-and-progression-data,RiskLabel,ovarian_dataset_smaller.csv,45000,5000,40000,32,8,11.11,
+d045,Parkinson Disease (PD) Data Analysis,Medical,https://www.kaggle.com/datasets/porinitahoque/parkinsons-disease-pd-data-analysis,status,parkinsons_highly_imbalanced.csv,3564,564,3000,753,5.32,15.82,
+d046,Stroke Risk,Medical,https://www.kaggle.com/datasets/mahatiratusher/stroke-risk-prediction-dataset,At_Risk,pre_stroke_risk.csv,27056,2500,24556,17,9.82,9.24,
+d047,Stunting Wasting Dataset,Medical,https://www.kaggle.com/datasets/jabirmuktabir/stunting-wasting-dataset,Stunting_binary,preprocessed_stunting_sampled_10k.csv,10000,2197,7803,4,3.55,21.97,
+d048,Support Health Data for Death Prediction,Medical,https://archive.ics.uci.edu/dataset/880/support2,target,support2_preprocessed_binary.csv,9105,2360,6745,43,2.86,25.92,
+d049,Cardiotocography,Medical,https://archive.ics.uci.edu/dataset/193/cardiotocography,NSP,CTG_preprocessed_scaled.csv,2126,471,1655,40,3.51,22.15,
+d050,Hepatitis C Virus (HCV) for Egyptian Patients,Medical,https://archive.ics.uci.edu/dataset/503/hepatitis+c+virus+hcv+for+egyptian+patients,Target,HCV_data_imb.csv,1385,336,1049,28,3.12,24.26,
+d051,Anomaly detection in helicopter,Predictive maintenance,https://www.kaggle.com/datasets/nagasai524/anomaly-detection-in-helicopter/data,Lavel,Helicopter_Anomaly_dataset.csv,161,62,99,16383,1.6,38.51,
+d052,High-Speed Train Bogie Vibration & Fault Diagnosis,Predictive maintenance,https://www.kaggle.com/datasets/ziya07/high-speed-train-bogie-vibration-and-fault-diagnosis,condition,pre_train_fault.csv,1215,215,1000,487,4.65,17.7,
+d053,AI4I 2020 Predictive Maintenance,Predictive maintenance,https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset,Machine failure,ai4i2020_preprocessed.csv,10000,339,9661,11,28.5,3.39,
+d054,Annealing,Predictive maintenance,https://archive.ics.uci.edu/dataset/3/annealing,Label,Annealing_Binary_Preprocessed.csv,798,190,608,84,3.2,23.81,
+d055,APS Failure at Scania Trucks,Predictive maintenance,https://archive.ics.uci.edu/dataset/421/aps+failure+at+scania+trucks,class,aps_failure_reduced_30k.csv,30000,500,29500,170,59,1.67,prepared 30k subset
+d056,Climate Model Simulation Crashes,Predictive maintenance,https://archive.ics.uci.edu/dataset/252/climate+model+simulation+crashes,outcome,pop_failures_binary_preprocessed.csv,540,494,46,18,10.74,91.48,majority-positive
+d057,HTRU2 (pulsar candidates),Predictive maintenance,https://archive.ics.uci.edu/dataset/372/htru2,Class,HTRU_2_preprocessed.csv,17898,1639,16259,8,9.92,9.16,
+d058,Ionosphere,Predictive maintenance,https://archive.ics.uci.edu/dataset/52/ionosphere,target,ionosphere_preprocessed_corrected.csv,351,126,225,34,1.79,35.9,
+d059,"MIT-BIH Arrhythmia (ECG, binary)",Predictive maintenance,https://www.kaggle.com/code/redpen12/anomaly-detection-with-cnn-autoencoders/input,Label,MITBIH_ECG_Binary_Preprocessed.csv,21892,3774,18118,187,4.8,17.24,
