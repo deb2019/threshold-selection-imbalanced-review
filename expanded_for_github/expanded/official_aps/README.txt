@@ -1,1 +1,0 @@
-Download the original ZIP from https://archive.ics.uci.edu/static/public/421/aps+failure+at+scania+trucks.zip . From this folder run python official_aps.py /path/to/download.zip . Input hashes are in official_log.txt. Scores use zero-based row indices in the corresponding original file. Calibration rows index the original training file. See requirements.txt at package root.
